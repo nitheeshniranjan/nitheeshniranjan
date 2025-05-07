@@ -1,5 +1,4 @@
 ## Hi there  im Nitheesh Mondem👋
-<!--
 **nitheeshniranjan/nitheeshniranjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # 👋 Hi there, I'm Mondem Nitheesh!
 
@@ -35,5 +34,3 @@
 
 ### ⚡ Fun fact:
 - I once debugged an error at 3 AM and ended up learning how payment gateways work end-to-end 😄
-
--->
