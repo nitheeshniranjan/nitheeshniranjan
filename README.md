@@ -26,8 +26,8 @@
 - Frontend & backend integration
 
 ### 📫 How to reach me:
-- [LinkedIn](www.linkedin.com/in/nitheesh-m-18a03a24a)
-- Email: mondemnitheesh@example.com
+- [[[LinkedIn](www.linkedin.com/in/nitheesh-m-18a03a24a)])](www.linkedin.com/in/nitheesh-m-18a03a24a)
+- Email: mondemnitheesh@gmail.com
 
 ### 😄 Pronouns: 
 - He/Him
